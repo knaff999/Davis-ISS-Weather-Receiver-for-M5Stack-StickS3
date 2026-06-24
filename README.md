@@ -20,10 +20,6 @@ API) before the radio will power up.
 
 ## Wiring (Hat2-Bus 2.54-16P header)
 
-Receives Davis Instruments ISS (Vantage Pro2 / Vue) wireless weather data
-using a CC1101 sub-1GHz module, and displays it on an M5Stack StickS3's
-screen.
-
 WIRING (StickS3 Hat2-Bus 2.54-16P header) -- this matches the official
 Bruce firmware pinout for the M5StickS3 CC1101 (wiki.bruce.computer), so
 the same physical wiring works whether you're running this sketch or a
