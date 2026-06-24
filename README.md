@@ -35,6 +35,9 @@ CC1101 MOSI      -> G6   CC1101 GDO0 -> G3
 CC1101 MISO/GDO1 -> G4   CC1101 GDO2 -> Not Connected
 CC1101 VCC       -> 3V3 (Hat2-Bus 3V3 pin) -- verify it reads ~3.3V first
 CC1101 GND       -> GND (Hat2-Bus GND pin)
+<img width="393" height="719" alt="m5sticks3-cc1101" src="https://github.com/user-attachments/assets/dea3aab7-365d-4dd3-b069-2a81a71e83bf" />
+
+
 
 Libraries needed (Arduino Library Manager): "M5Unified" (M5Stack).
 
